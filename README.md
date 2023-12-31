@@ -28,30 +28,3 @@ Follow these steps to set up and run the project locally:
 
    ```bash
    git clone https://github.com/coder-mujahid/REST_API_with_Modal.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd REST_API_with_Modal
-Install dependencies:
-
-bash
-Copy code
-npm install
-Run the server:
-
-bash
-Copy code
-npm start
-Open the app in your browser:
-
-Visit http://localhost:3000 to view the app.
-
-Contributing
-Contributions are welcome! Follow these steps to contribute:
-
-Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Commit your changes: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Open a pull request.
